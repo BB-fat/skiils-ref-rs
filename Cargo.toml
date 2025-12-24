@@ -1,6 +1,6 @@
 [package]
 name = "skills-ref-rs"
-repository = "https://github.com/BB-fat/skiils-ref-rs"
+repository = "https://github.com/BB-fat/skills-ref-rs"
 version = "0.1.0"
 edition = "2024"
 description = "Rust implementation of agentskills library for validating, parsing, and managing Agent Skills"
